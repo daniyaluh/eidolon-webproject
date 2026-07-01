@@ -178,11 +178,11 @@ More docs: [`RUN-LOCAL.md`](./RUN-LOCAL.md) · [`DATABASE.md`](./DATABASE.md)
 
 ---
 
-## 🔒 Security
+## Security
 
 Real secrets live **only** in `.env` files, which are gitignored - never commit them.
 If a key is ever exposed, rotate it in the provider's dashboard.
 
 ---
 
-<div align="center"><sub>Made by Daniyaluh with ❤️ — Eidolon</sub></div>
+<div align="center"><sub>Made by Daniyaluh with ❤️ - Eidolon</sub></div>
