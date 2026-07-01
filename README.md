@@ -185,4 +185,8 @@ If a key is ever exposed, rotate it in the provider's dashboard.
 
 ---
 
+## Screenshot
+
+---
+
 <div align="center"><sub>Made by Daniyaluh with ❤️ - Eidolon</sub></div>
