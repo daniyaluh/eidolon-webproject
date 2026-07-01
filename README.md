@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 **Storefront**
 - Cinematic, auto-rotating hero and **sliding banner carousels**
